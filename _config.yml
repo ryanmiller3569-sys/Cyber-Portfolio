@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Ryan Miller
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/ryan-miller-312a17114/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/ryanmiller3569-sys
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
